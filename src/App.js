@@ -1,5 +1,6 @@
 import './App.css';
 import Home from './components/pages/home/Home';
+import Sidebar from './components/sidebar/Sidebar';
 import Topbar from './components/topbar/Topbar';
 
 function App() {
